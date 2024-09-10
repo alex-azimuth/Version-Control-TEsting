@@ -2,4 +2,6 @@
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=Line1	G=VAR
+++D=BOOL	N=pa001	G=VAR
+++D=BOOL	N=testout2	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup

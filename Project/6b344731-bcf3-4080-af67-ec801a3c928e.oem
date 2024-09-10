@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sysmac schemaVersion="1">
+  <Entity type="Solution" subtype="" id="6b344731-bcf3-4080-af67-ec801a3c928e" name="Version Control Testing" version="0" dateCreated="09/10/2024 10:05:34" trackingId="9bd869ee-5c1a-4551-a8f2-36ff9cfd71c5">
+    <AccessInfos />
+    <ChildEntities>
+      <Entity type="SolutionCustomColors" subtype="" id="d6c1924a-3f5e-4099-8257-8ac63d6bcaa1" name="" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:34" trackingId="74e896c3-a6fe-4b30-8eea-5d4371e5b46a">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="EntityDefinedColor" subtype="" id="ab4bc9a5-dd5c-4dd2-a761-0b74a8d03ade" name="EntityDefinedColor" version="0" dateCreated="09/10/2024 10:05:34" trackingId="b954629c-974c-416b-8a7b-643d3ef6e6aa">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="EntityDefinedCheckBox" subtype="" id="8c8800b3-d92c-4c30-aab3-4df09e897a48" name="EntityDefinedCheckBox" version="0" dateCreated="09/10/2024 10:05:34" trackingId="085a5596-a785-4102-a396-6002fa6cdd8e">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="ProjectShortcut" subtype="" id="7d52f978-7607-4a1f-b446-22fbd9104cf5" name="Project shortcut items" version="0" dateCreated="09/10/2024 10:05:34" trackingId="df7073eb-27d0-4660-a52a-d9c2d67c99d4" SDName="Project shortcut items">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="VirtualDisplaySetting" subtype="" id="e827a2b7-50c4-4a0b-8778-3817bb6d12bd" name="3DVisualizerSettings" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:34" trackingId="b24da8ef-80da-4972-8c6b-4ee4ee8eeb31">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="Sharing" subtype="" id="075987bc-bf68-4831-ae46-35be40515d3b" name="EntitySharing" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:34" trackingId="5495831b-fb80-4dcf-bec6-dfe1ec1d4201" SDName="Sharing setting between devices">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="Watch" subtype="MCWatchSubType" id="6eb3aa97-8322-497f-a8ee-18d37fed43c7" name="Watch (Project)" version="0" dateCreated="09/10/2024 10:05:34" trackingId="3bd59014-2e17-4e71-ba0d-e40022cf8e81">
+        <AccessInfos />
+        <ChildEntities />
+      </Entity>
+      <Entity type="Device" subtype="NJ501" id="c0ec12d5-2fbc-4c0a-8ad2-2a62951fa5d8" name="new_Controller_0" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:39" trackingId="7090a77a-037d-4afe-9dc0-69e0b26ab84d" hash="5087ab8c182b38c7e89f1dba3aed6b85" DHS="4203975e536e688f5a82e9d8181d471d" TH="3d27ad62d92e1ab38981a3676bfe816f">
+        <AccessInfos />
+        <ChildEntities>
+          <Entity type="Watch" subtype="" id="f91fa330-b244-4628-baf8-c35a0e08eec1" name="Watch" version="0" dateCreated="09/10/2024 10:05:34" trackingId="a82e0563-6470-49b4-b676-8219ec52069a">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="CommsSettings" subtype="" id="db68c6f7-4c11-4e72-a6d9-3d765edd2042" name="Communications Settings" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:34" trackingId="e804111f-2d0c-40e8-9147-384fddb081eb">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="NexEcatConfiguration" subtype="EcatConfigurationSubstance" id="78bbcf86-fb0f-42eb-b450-b9b211f904db" name="EtherCAT" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:39" trackingId="4befa766-d5ea-42d1-a958-405711c9df28" SDName="EtherCAT Configuration" hash="b03231b132e117e50647cfe9f35c1866">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="NexEcatConfiguration" subtype="EcatConfigurationProxy" id="3f317af5-6d33-4ef3-8b48-4f2b173f31be" name="EtherCAT" version="0" dateCreated="09/10/2024 10:05:34" dateLastModified="09/10/2024 10:05:39" trackingId="ea478110-2eb0-46e8-9a46-fb81224e6092" DN="EtherCAT" SDName="EtherCAT Configuration and Setup" hash="aae5b7051fd0179c8689e568766206f7">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="TroubleShoot" subtype="" id="56a04342-4ae2-41a5-9bd6-3c27b209e008" name="Troubleshooting" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="7427706d-7c2c-43f0-8258-45707db7e16b">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="ConditionMonitor" subtype="" id="914d84e6-b78d-4c04-91cb-badcb8e51e37" name="" version="1" dateCreated="09/10/2024 10:05:39" trackingId="51ecc1f1-1c68-42d0-8efe-341cb220b79b">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="Simulation" subtype="MachineModelConfiguration" id="b6f9cdf1-6200-41e9-a42a-3ddb8bc2f070" name="MachineModelConfiguration" version="2" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="2d7e4465-b8d0-4ea3-adca-c8ecf2c676ae" SDName="3D equipment model" hash="f080424628913e083a65821d920f9cca">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="UserProgramId" subtype="" id="74e14adc-503a-4e23-bd2c-2bb142c41804" name="UserProgramId" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="6a559ab4-08de-4b42-9fc1-95a9afb300b2" hash="cd98667981c48b5670ed5f9981a7b87f">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="SourceCompareId" subtype="Configuration" id="7b522096-334a-47eb-b0a1-4de42b5bcd7d" name="Comparison ID for Configurations and Setup" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="4ef16cf6-7e77-4e81-85fc-42ede1dc8c6c" SDName="Comparison ID for Configurations and Setup" hash="62dd242f1e361338a894ba78c57b0a90">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="NxCpuRack" subtype="CpuRack" id="d2fcc0c2-4cb5-4b7e-9ecb-51699d98fb23" name="CPU Rack0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="d30bd9dc-bac3-480c-b3a5-4ee646662864" DN="CPU/Expansion Racks" hash="352b712ee53e487cb3475f37e2957c5d">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="NxCpuRack" subtype="NXBusPrintTarget" id="cee535ed-fb59-4c0d-b64c-d30ecc070caf" name="NXBus" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="752bb805-c6f2-4a8f-b683-f92a6ab8978b">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NxCpuRack" subtype="NXBus" id="f5eeb7b2-bf59-4e07-a908-e13d30a263dc" name="NXBus0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="ebbdc2d6-5703-48f5-b8df-282e1baff79e" DN="CPU Rack" hash="7e7cb413fe10b926c805ba61f6caed4b">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="NexNXBusConfiguration" subtype="MasterUnit" id="7d047a58-5d2b-4216-8efb-05f033f37f92" name="Master unit" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="0f3246f0-63d8-441d-b5c2-77ae04ad7773">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                  <Entity type="NexNXBusConfiguration" subtype="SlaveTerminal" id="b4db0306-a27f-435c-ac2d-529c9b70e9c1" name="SlaveTerminal" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="ceeaed1a-37d0-42ec-a595-6dead2ecb533" hash="3c974d0ce8d0b9561b6efe4c877ca348">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="IOMap" subtype="" id="1bd34903-e105-4901-a07c-3a723a1fdd9c" name="I/O Map" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="824f77a1-8c32-41e9-b33f-c75e9901fc01" DN="I/O Map" hash="d41d8cd98f00b204e9800998ecf8427e">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="NexControllerSetup" subtype="" id="3786641d-bca7-4227-b24e-fa64df349e8f" name="Controller Setup" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="0db5442a-ab3c-47d9-a85d-23d1e4a8dc8e" DN="Controller Setup">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="NexControllerSetupActionSetting" subtype="" id="a3937617-085a-422b-809d-f7264734886c" name="Operation Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="8e8aa5e3-96b9-4f65-9998-418fa931bfea" DN="Operation Settings" hash="73d6d104978f8131652707fda0980a88">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexControllerSetupEipSetting" subtype="" id="0b3b9d34-bc68-42cc-a878-db4a6d12f377" name="Built-in EtherNet/IP Port Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="daef16a1-bf65-4cd9-92e3-b91d37ffe508" DN="Built-in EtherNet/IP Port Settings" hash="0829b8bed741437694976578323221a8">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexControllerSetupBuitinIOSetting" subtype="" id="2a047ca6-1855-46fd-a06a-0d08bbacc7ef" name="Built-in I/O Settings0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="fcb5bbd2-d96a-4f26-9051-d13895056b87" DN="Built-in I/O Settings" hash="75391aebec331aea20f2ba95a41de671">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexControllerSetupOptionBoardSetting" subtype="" id="2d5b0a6a-9754-473c-92b6-5e1b1e3bdd06" name="Option Board Settings0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="dcd76468-cb9c-40c8-8600-0772a22a22f7" DN="Option Board Settings" hash="5a0c5bea375c6e4ed5b40aa649bfc6cd">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexControllerSetupMemorySetting" subtype="" id="28dfbe76-3e25-465c-bb6d-fac7579af750" name="Memory Settings0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="8c74dda5-7e01-428b-b3f1-988c62ad78ad" DN="Memory Settings" hash="ff92e9305efc5c056288c85a74bbb579">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexCpuRackBuiltinIOMaster" subtype="" id="25dc1bea-4f03-463f-9572-aaf8061bfc83" name="BuiltinIoMaster0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="74ec082a-1d52-4ee1-b0e9-327b6944c8f3" hash="d3036c24fd750372f3d351cc17736f84">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="NexCpuRackOptionboardMaster" subtype="" id="f87715da-bc81-47b4-8ef0-4cb345235d02" name="OptionBoardMaster0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="5de658eb-1581-4540-8b82-739ceea79edd" hash="8ba40ee813eb99be3fa9617d1783e9f2">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="NexOptionBoardIONetwork" subtype="" id="04168a45-5f37-47cf-989a-9c90275f9b9e" name="OptionBoardNetwork0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="2b4a6aeb-31c9-4e9a-a4f9-e18ef9f19e3c" hash="a034928adc6e3446bec8810e976b17ac">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="MotionSettingEntity" subtype="" id="7064b337-bbff-461a-86ae-d3232d55b6cb" name="Motion Control Setup" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="5c612cf9-32bd-423b-814b-12fbe2d472fc" DN="Motion Control Setup">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="AxesRootEntity" subtype="" id="43046835-45ba-4909-9124-828757b261a4" name="Axis Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="178ad332-0a27-494b-a6df-fede816201db" DN="Axis Settings">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="AxesMonitorTableEntity" subtype="" id="70e63fec-bd93-43a5-8e69-d7daa1ca7845" name="Axis Monitor Table" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="b6f50ed2-8f94-4b4f-967b-3a7a4a863243">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                  <Entity type="AxesSettingTableEntity" subtype="" id="718adb31-9852-43d5-9b3f-c094240bd12c" name="Axis Setting Table" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="22afb4cf-17d7-4cc0-a075-0c6328c5d1f3">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+              <Entity type="AxesGroupsRootEntity" subtype="" id="59f36a70-71f3-4172-8475-b917c78039cb" name="Axes Group Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="35fc65f9-b39e-4753-854b-3853a53b44d5" DN="Axes Group Settings">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="AxesTestEntity" subtype="" id="077010e4-5636-49ac-8e6d-f8ad91170c67" name="AxesTestEntity" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="afa5b630-b857-4b9b-a8fa-82bcb3d5505a">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="CamEditor" subtype="" id="097aa7e6-b80b-4788-b92d-802ad16c22a7" name="Cam Data Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="eeb3d803-69b0-499d-b843-a10c47e59f9d" DN="Cam Data Settings">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="EventTable" subtype="" id="982fbe4d-1d94-49cf-bd77-40265f0423ed" name="Event Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="4dcf3cfe-9a18-4692-8e29-fcd7556a9f28" DN="Event Settings" hash="ccb6675196f4f3a316d157f92e4aff87">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="TaskConfiguration" subtype="" id="4a28bae5-38a3-440b-a0ff-9ed238b0122b" name="Task Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="5a5ca6b1-5c18-45f8-8252-2ca68962eb04" DN="Task Settings">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="DataTraces" subtype="Nex" id="e9035b8a-f0cc-475d-8085-c5584e81d1d8" name="Data Trace Settings" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="2e035585-81f3-4c7b-8989-b2e571d890d4" DN="Data Trace Settings">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+          <Entity type="Group" subtype="IecPous" id="b7a13f23-3d00-4ad1-9fad-655e9e7a3808" name="POUs" version="0" dateCreated="09/10/2024 10:05:39" trackingId="41631d8d-09cb-45dc-88cb-e7f18d2f3dde" DN="POUs">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="Group" subtype="IecPrograms" id="caa2f8b5-b6df-4b30-8c9a-5c155bb91d9c" name="Programs" version="0" dateCreated="09/10/2024 10:05:39" trackingId="d160d447-780f-4d87-935c-a8ae2178f9f9" DN="Programs">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="Program" subtype="MultipartLadder" id="d6d8b90b-511b-4a4c-b455-c32eb35358c1" name="Program0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" author="workstation12" trackingId="124e2b2c-0962-4cbf-bb44-d1e54a4632c3" DN="Program0">
+                    <AccessInfos />
+                    <ChildEntities>
+                      <Entity type="DebugProgramSetting" subtype="" id="028e2a6c-3a55-468d-b1ea-5eb17323c52d" name="DebugProgramSetting0.00" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="8501fadb-fd3a-4e40-aa8e-5e33f8819ce4" hash="1ba7c2b4868fa6051083bbf3011b231b">
+                        <AccessInfos />
+                        <ChildEntities />
+                      </Entity>
+                      <Entity type="Variables" subtype="Ladder" id="3e23f9fc-c8be-4fcf-92f3-92c8e501d1fd" name="Variables" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:06:23" trackingId="b3eb1e3f-6eaa-42f6-a90a-a1415eb84388" hash="eb66f49523a0e733cefa9a029b16adbe">
+                        <AccessInfos />
+                        <ChildEntities>
+                          <Entity type="SourceHolder" subtype="" id="f9cc0301-1394-4545-a0a9-0b9797aa1d3b" name="Source" version="0" dateCreated="09/10/2024 10:05:39" trackingId="47dd3602-eaeb-4ebc-8ae9-ed9b150d4068">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                        </ChildEntities>
+                      </Entity>
+                      <Entity type="PouBody" subtype="Ladder" id="72496cdd-94d4-4f4f-8c23-09a7bf72fd02" name="Section0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:06:23" trackingId="ac47a742-320b-4512-a96e-95baec75c645" DN="Section0" hash="1ab86e154c290823715633e251faf028">
+                        <AccessInfos />
+                        <ChildEntities>
+                          <Entity type="SourceHolder" subtype="" id="05acf04b-b856-43a4-8e39-39070389c8f8" name="Source" version="0" dateCreated="09/10/2024 10:05:39" trackingId="68aae2e6-b4e1-487c-b57c-121dca6e85a4">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                          <Entity type="PouBodySourceHolder" subtype="" id="44a09bb2-d0ac-42c6-81a0-3712748e14f7" name="PouBodySourceHolder" version="0" dateCreated="09/10/2024 10:05:39" trackingId="02114763-bd1c-49c6-8fe9-e58a28ec3475">
+                            <AccessInfos />
+                            <ChildEntities />
+                          </Entity>
+                        </ChildEntities>
+                      </Entity>
+                    </ChildEntities>
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+              <Entity type="Group" subtype="IecFunctions" id="9986e16c-0758-4018-b33b-37331f9e1c9d" name="Functions" version="0" dateCreated="09/10/2024 10:05:39" trackingId="5c1df4d8-fc95-4be2-ba36-b21e11775ba6" DN="Functions">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="Group" subtype="IecFunctionBlocks" id="851aaae1-9b33-4436-80a3-04ddfb6fce2e" name="Function Blocks" version="0" dateCreated="09/10/2024 10:05:39" trackingId="bb05bb80-5f12-46bc-ae2c-905d1dd661ac" DN="Function Blocks">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="Group" subtype="IecData" id="75ed519b-5ac4-4a45-8ac7-d377a3182651" name="Data" version="0" dateCreated="09/10/2024 10:05:39" trackingId="a1a84a60-f8c0-44b0-b8f4-33140f3b555d" DN="Data">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="DataType" subtype="" id="01408ad3-8d7b-40c8-b6ae-19b043e467be" name="Data Types" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="4ccefda2-85f2-440f-8d2a-2dc509f55624" DN="Data Types" hash="f27bb25c86ebad40d29aad6ca8399fd9">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="SourceHolder" subtype="" id="370c74b4-4da0-4dda-8bc3-8922f1aca32f" name="Source" version="0" dateCreated="09/10/2024 10:05:39" trackingId="65363942-3ac0-479b-a2a7-64a2028f2342">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+              <Entity type="ControllerNamespaces" subtype="" id="8f5e035b-b561-4c82-9d85-9f262b6cab8f" name="" version="0" dateCreated="09/10/2024 10:05:39" trackingId="f411a4e1-d4fc-4edd-802f-49f7e4b255b0">
+                <AccessInfos />
+                <ChildEntities />
+              </Entity>
+              <Entity type="Variables" subtype="Global" id="685cfd32-65b7-45f9-bf95-2a499e737296" name="Global Variables" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="a4c43226-2d6e-4dff-8d5e-aba64c28ff67" DN="Global Variables" hash="6ea8aaf0757b0852e9ac52aac7f181cb">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="SourceHolder" subtype="" id="41f80f3f-f43c-447d-b7bb-1db9246dc0cb" name="Source" version="0" dateCreated="09/10/2024 10:05:39" trackingId="e4fcf032-7c45-4a18-8748-f1ef050cd390">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="Group" subtype="NexIecTasks" id="d740665d-898f-4abf-8645-56a3879849dd" name="Tasks" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="b9b68f9e-11e2-4571-ad42-6d762c97308d" DN="Tasks">
+            <AccessInfos />
+            <ChildEntities>
+              <Entity type="NexTask" subtype="Base" id="36887871-b64b-44f7-adcc-9e9edb657768" name="PrimaryTask" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="17855363-1d13-4cb2-9877-9ef21da07e9f" DN="PrimaryTask" hash="477185f8051681d0057cfc3866d85dc6">
+                <AccessInfos />
+                <ChildEntities>
+                  <Entity type="NexAssociatedProgram" subtype="MultipartLadder" id="2e2bbb2d-e67d-48ac-9307-76fa956fba63" name="Program0" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="d85ca486-fa45-48cd-8deb-4dc1d60d00db" DN="Program0" hash="74cbddac800869c7d186f6f11e20009a">
+                    <AccessInfos />
+                    <ChildEntities />
+                  </Entity>
+                </ChildEntities>
+              </Entity>
+            </ChildEntities>
+          </Entity>
+          <Entity type="ReferredLibraries" subtype="Nex" id="eda7fda4-57db-4c4f-a225-f6d0dc373f57" name="Library" version="0" dateCreated="09/10/2024 10:05:39" dateLastModified="09/10/2024 10:05:39" trackingId="db801802-6ffa-4986-b95b-3eb6c9a145e4" hash="588cb05649ae53878f845dfec45ce1e8">
+            <AccessInfos />
+            <ChildEntities />
+          </Entity>
+        </ChildEntities>
+      </Entity>
+    </ChildEntities>
+  </Entity>
+</sysmac>
